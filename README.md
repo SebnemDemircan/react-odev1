@@ -1,3 +1,4 @@
+### Bu proje patika.dev üzerinde yer alan ödev dersi için yapılmıştır.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
